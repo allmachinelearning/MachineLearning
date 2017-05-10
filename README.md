@@ -20,8 +20,7 @@
 
 - ### 医疗 Medical
 
-- ### ...
-
+- ### [行为识别 Activity recognition](https://github.com/jindongwang/activityrecognition)
 
 - - -
 
@@ -62,3 +61,4 @@
 
 - 直接pull requests
 - 或者到[这里](https://github.com/allmachinelearning/MachineLearning/issues/1)留下你的Github账号我们把你加入贡献者列表
+- PDF等大文件上传方法：登录http://ddl.escience.cn/，用户名：allmachinelearning@163.com，密码：machine123。登录后，在‘个人空间’中上传，然后将文件（夹）链接共享。
