@@ -57,6 +57,8 @@
 
 - [机器学习入门资料](https://github.com/allmachinelearning/MachineLearning/blob/master/notes/MLMaterials.md)
 
+- [MIT.Introduction to Machine Learning](http://ddl.escience.cn/f/Iwtu)
+
 - [东京大学同学做的人机交互报告](https://github.com/allmachinelearning/MachineLearning/blob/master/notes/FieldResearchinChina927-104.pdf)
 
 - [人机交互简介](https://github.com/jindongwang/HCI)
