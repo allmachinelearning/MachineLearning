@@ -5,7 +5,30 @@
 
 - - -
 
+##  预备知识 Prerequisite
 
+- Python
+	- [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/) 	
+
+- Markdown
+	- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - Markdown is a easy-to-use writing tool on the GitHu.  
+
+
+- - -
+
+
+## 理论 Theory
+
+- ### 深度学习 Deep learning
+
+- ### [强化学习 Reinforcement learning](https://github.com/allmachinelearning/ReinforcementLearning)
+
+- ### [迁移学习 Transfer learning](https://jindongwang.github.io/transferlearning/)
+
+- ### [分布式学习系统 Distributed learning system](https://github.com/allmachinelearning/Deep-Learning-System-Design)
+
+
+- - -
 
 
 ## 应用 Applications
@@ -22,18 +45,7 @@
 
 - ### [行为识别 Activity recognition](https://github.com/jindongwang/activityrecognition)
 
-- - -
 
-
-## 理论 Theory
-
-- ### 深度学习 Deep learning
-
-- ### [强化学习 Reinforcement learning](https://github.com/allmachinelearning/ReinforcementLearning)
-
-- ### [迁移学习 Transfer learning](https://jindongwang.github.io/transferlearning/)
-
-- ### [分布式学习系统 Distributed learning system](https://github.com/allmachinelearning/Deep-Learning-System-Design)
 
 - - -
 
@@ -64,3 +76,4 @@
 - PDF等大文件上传方法：登录http://ddl.escience.cn/，用户名：allmachinelearning@163.com，密码：machine123。登录后，在‘个人空间’中上传，然后将文件（夹）链接共享。
 
 #### [贡献者 Contributors](https://github.com/allmachinelearning/MachineLearning/blob/master/contributors.md)
+[Jindong Wang](http://jd92.wang) [Xiandong QI](https://xiandong79.github.io)
