@@ -73,6 +73,29 @@
 
 http://ddl.escience.cn/f/IwWE
 
+```
+利用Python进行数据分析.azw3
+跟老齐学Python：从入门到精通.azw3
+Python与数据挖掘 (大数据技术丛书) - 张良均.azw3
+Python学习手册.azw3
+Python性能分析与优化.mobi
+Python数据挖掘入门与实践_7242.azw3
+Python数据分析与挖掘实战(大数据技术丛书) - 张良均.azw3
+Python科学计算(第2版).azw3
+Python计算机视觉编程 [美] Jan Erik Solem.azw3
+python核心编程(第三版).azw3
+Python核心编程（第二版）.azw3
+Python高手之路 - [法] 朱利安·丹乔（Julien Danjou）.azw3
+Python编程快速上手 让繁琐工作自动化.azw3
+Python编程：从入门到实践.azw3
+Python3 CookBook中文版.mobi
+终极算法机器学习和人工智能如何重塑世界 - [美 ]佩德罗·多明戈斯.azw3.azw3
+机器学习系统设计 (图灵程序设计丛书) - [美]Willi Richert &amp; Luis Pedro Coelho.azw3.azw3
+机器学习实践指南：案例应用解析（第2版） (大数据技术丛书) - 麦好.azw3
+机器学习实践 测试驱动的开发方法 (图灵程序设计丛书) - [美] 柯克（Matthew Kirk）.a.azw3
+机器学习：实用案例解析 (O'Reilly精品图书系
+```
+
 ---
 
 ## 其他 Miscellaneous
