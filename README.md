@@ -67,7 +67,11 @@
 
 - [职场机器学习入门](https://github.com/allmachinelearning/MachineLearning/blob/master/notes/%E8%81%8C%E5%9C%BA-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8.md)
 
+- - -
 
+## 其他 Miscellaneous
+
+- [机器学习日报](http://forum.ai100.com.cn/)：每天更新最新研究成果
 
 - - -
 
@@ -76,6 +80,8 @@
 - 直接pull requests
 - 或者到[这里](https://github.com/allmachinelearning/MachineLearning/issues/1)留下你的Github账号我们把你加入贡献者列表
 - PDF等大文件上传方法：登录http://ddl.escience.cn/，用户名：allmachinelearning@163.com，密码：machine123。登录后，在‘个人空间’中上传，然后将文件（夹）链接共享。
+- 之后请在贡献者页面加入自己的信息
 
 #### [贡献者 Contributors](https://github.com/allmachinelearning/MachineLearning/blob/master/contributors.md)
+
 [Jindong Wang](http://jd92.wang) [Xiandong QI](https://xiandong79.github.io)
