@@ -69,6 +69,12 @@
 
 - - -
 
+## 相关书籍 reference book
+
+http://ddl.escience.cn/f/IwWE
+
+---
+
 ## 其他 Miscellaneous
 
 - [机器学习日报](http://forum.ai100.com.cn/)：每天更新最新研究成果
@@ -79,7 +85,7 @@
 
 - 直接pull requests
 - 或者到[这里](https://github.com/allmachinelearning/MachineLearning/issues/1)留下你的Github账号我们把你加入贡献者列表
-- PDF等大文件上传方法：登录http://ddl.escience.cn/，用户名：allmachinelearning@163.com，密码：machine123。登录后，在‘个人空间’中上传，然后将文件（夹）链接共享。
+- PDF等大文件上传方法：登录	http://ddl.escience.cn 	用户名：allmachinelearning@163.com，密码：machine123。登录后，在‘个人空间’中上传，然后将文件（夹）链接共享。
 - 之后请在贡献者页面加入自己的信息
 
 #### [贡献者 Contributors](https://github.com/allmachinelearning/MachineLearning/blob/master/contributors.md)
