@@ -73,6 +73,8 @@
 
 http://ddl.escience.cn/f/IwWE
 
+- ### 入门读物 [The Elements of Statistical Learning(英文第二版),The Elements of Statistical Learning.pdf](http://ddl.escience.cn/ff/emZH)
+
 ```
 利用Python进行数据分析.azw3
 跟老齐学Python：从入门到精通.azw3
