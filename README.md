@@ -14,7 +14,7 @@
 	- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - Markdown is a easy-to-use writing tool on the GitHu.  
 
 - R
-       -[R Tutorial](http://www.cyclismo.org/tutorial/R/)
+        - [R Tutorial](http://www.cyclismo.org/tutorial/R/)
 
 - - -
 
