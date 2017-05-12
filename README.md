@@ -37,7 +37,7 @@
 
 - ### 计算机视觉/机器视觉 Computer vision / machine vision
 
-- ### 自然语言处理 Natural language procesing
+- ### [自然语言处理 Natural language procesing](https://github.com/allmachinelearning/NaturalLanguageProcessing)
 
 - ### 语音识别 Speech recognition
 
