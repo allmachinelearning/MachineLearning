@@ -129,5 +129,10 @@
 - PDF等大文件上传方法：登录	http://ddl.escience.cn 	用户名：allmachinelearning@163.com，密码：machine123。登录后，在‘个人空间’中上传，然后将文件（夹）链接共享。
 - 之后请在贡献者页面加入自己的信息
 
+## 如何开始项目协同合作
+[快速了解github协同工作](http://hucaihua.cn/2016/12/02/github_cooperation/)
+
+[及时更新fork项目](https://jinlong.github.io/2015/10/12/syncing-a-fork/)
+
 #### [贡献者 Contributors](https://github.com/allmachinelearning/MachineLearning/blob/master/contributors.md)
 
