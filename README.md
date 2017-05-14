@@ -8,7 +8,8 @@
 ##  预备知识 Prerequisite
 
 - Python
-	- [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/) 	
+	- [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
+	
 
 - Markdown
 	- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - Markdown is a easy-to-use writing tool on the GitHu.  
@@ -16,6 +17,12 @@
 - R
         - [R Tutorial](http://www.cyclismo.org/tutorial/R/)
 
+- Python和Matlab的一些cheat sheet：http://ddl.escience.cn/f/IDkq 包含：
+	- Numpy、Scipy、Pandas科学计算库
+	- Scikit-learn机器学习库、Keras深度学习库
+	- Matlab科学计算
+	- Matplotlib画图
+	
 - - -
 
 
