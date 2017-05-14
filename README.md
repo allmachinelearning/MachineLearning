@@ -80,9 +80,13 @@
 
 ## 课程与讲座 Course and talk
 
-- [斯坦福机器学习入门课程](https://www.coursera.org/learn/machine-learning)，讲师为Andrew Ng，适合数学基础一般的人，适合入门，但是学完会发现只是懂个大概，也就相当于什么都不懂。
+- [斯坦福机器学习入门课程](https://www.coursera.org/learn/machine-learning)，讲师为Andrew Ng，适合数学基础一般的人，适合入门，但是学完会发现只是懂个大概，也就相当于什么都不懂。省略了很多机器学习的细节
+- [Stanford CS 229](http://cs229.stanford.edu/materials.html), Andrew Ng机器学习课无阉割版，Notes比较详细
+- [CMU 10-702 Statistical Machine Learning](http://www.stat.cmu.edu/~larry/=sml/), 讲师是Larry Wasserman，应该是统计系开的机器学习，非常数学化，第一节课就提到了RKHS(Reproducing Kernel Hilbert Space),建议数学出身的同学看或者是学过实变函数泛函分析的人看一看
+- [CMU 10-715 Advanced Introduction to Machine Learning](https://www.cs.cmu.edu/~epxing/Class/10715/)，同样是CMU phd级别的课，节奏快难度高
 - Coursera上国立台湾大学[林轩田](https://www.coursera.org/instructor/htlin)开的两门课：[机器学习基石](https://www.coursera.org/course/ntumlone)（适合入门），[机器学习技法](https://www.coursera.org/course/ntumltwo)（适合提高）。
 - 斯坦福大学Feifei Li教授的[CS231n系列深度学习课程](http://cs231n.stanford.edu/)。Feifei Li目前是Google的科学家，深度学习与图像识别方面的大牛。这门课的笔记可以看[这里](https://zhuanlan.zhihu.com/p/21930884)。
+- Max Planck Institute for Intelligent Systems Tübingen[德国马普所智能系统研究所2013的机器学习暑期学校视频](https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E),仔细翻这个频道还可以找到2015的暑期学校视频
 - 知乎Live：[我们一起开始机器学习吧](https://www.zhihu.com/lives/792423196996546560)，[机器学习入门之特征工程](https://www.zhihu.com/lives/819543866939174912)
 
 - - -
