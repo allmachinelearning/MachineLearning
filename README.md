@@ -76,6 +76,9 @@
 
 - [职场机器学习入门](https://github.com/allmachinelearning/MachineLearning/blob/master/notes/%E8%81%8C%E5%9C%BA-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8.md)
 
+- [机器学习的发展历程及启示](http://mt.sohu.com/20170326/n484898474.shtml), (@Prof. Zhihua Zhang/@张志华教授)
+
+
 - - -
 
 ## 课程与讲座 Course and talk
@@ -85,6 +88,8 @@
 - [CMU 10-702 Statistical Machine Learning](http://www.stat.cmu.edu/~larry/=sml/), 讲师是Larry Wasserman，应该是统计系开的机器学习，非常数学化，第一节课就提到了RKHS(Reproducing Kernel Hilbert Space),建议数学出身的同学看或者是学过实变函数泛函分析的人看一看
 - [CMU 10-715 Advanced Introduction to Machine Learning](https://www.cs.cmu.edu/~epxing/Class/10715/)，同样是CMU phd级别的课，节奏快难度高
 - Coursera上国立台湾大学[林轩田](https://www.coursera.org/instructor/htlin)开的两门课：[机器学习基石](https://www.coursera.org/course/ntumlone)（适合入门），[机器学习技法](https://www.coursera.org/course/ntumltwo)（适合提高）。
+- [Machine Learning for Data Analysis](https://www.coursera.org/learn/machine-learning-data-analysis), Coursera上Wesleyan大学的Data Analysis and Interpretation专项课程第四课。
+- [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks), Coursera上的著名课程，由Geoffrey Hinton教授主讲。
 - 斯坦福大学Feifei Li教授的[CS231n系列深度学习课程](http://cs231n.stanford.edu/)。Feifei Li目前是Google的科学家，深度学习与图像识别方面的大牛。这门课的笔记可以看[这里](https://zhuanlan.zhihu.com/p/21930884)。
 - Max Planck Institute for Intelligent Systems Tübingen[德国马普所智能系统研究所2013的机器学习暑期学校视频](https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E),仔细翻这个频道还可以找到2015的暑期学校视频
 - 知乎Live：[我们一起开始机器学习吧](https://www.zhihu.com/lives/792423196996546560)，[机器学习入门之特征工程](https://www.zhihu.com/lives/819543866939174912)
@@ -100,6 +105,10 @@
 
 
 - 入门读物 [The Elements of Statistical Learning(英文第二版),The Elements of Statistical Learning.pdf](http://ddl.escience.cn/ff/emZH)
+
+- [机器学习](https://book.douban.com/subject/26708119/), (@Prof. Zhihua Zhou/周志华教授)
+
+- [统计学习方法](https://book.douban.com/subject/10590856/), (@Dr. Hang Li/李航博士)
 
 - [一些Kindle读物](http://ddl.escience.cn/f/IwWE):
 
