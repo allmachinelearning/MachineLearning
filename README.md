@@ -276,7 +276,37 @@
 
 	- 机器学习：实用案例解析 (O'Reilly精品图书系
 
+- [数学](https://mega.nz/#F!LQJGQZgZ!DTSHGKRas-XDEOHYavpghw):
 
+    - Mathematical Analysis I by Vladimir A. Zorich
+
+    - Mathematical Analysis II by Vladimir A. Zorich
+
+    - Thomas' Calculus by George B. Thomas
+
+    - 普林斯顿微积分读本 by Adrian Banner
+
+    - Linear Algebra and Its Applications by Gilbert Strang
+
+    - The matrix cookbook by Kaare Brandt Petersen & Michael Syskind Pedersen
+
+    - Probability: Theory and Examples by Rick Durrett
+
+    - Probabilistic Graphical Models: Principles and Techniques by Daphne Koller & Nir Friedman
+
+    - Functional Analysis by Walter Rudin
+
+    - Functional Analysis, Sobolev Spaces and Partial Differential Equations by Haim Brezis
+
+    - Linear and Nonlinear Functional Analysis with Applications by Philippe G. Ciarlet
+
+    - Convex Optimization by Stephen Boyd & Lieven Vandenberghe
+
+    - Graph Theory by Reinhard Diestel
+
+    - Graph Theory by J.A. Bondy & U.S.R. Murty
+
+    - Mathematics for Computer Science by Eric Lehman & F Thomson Leighton & Alber R Meyer
 
 - [Packt每日限免电子书精选](http://ddl.escience.cn/f/IS4a):
 
@@ -357,6 +387,8 @@
 
 
 #### [贡献者 Contributors](https://github.com/allmachinelearning/MachineLearning/blob/master/contributors.md)
+
+
 
 
 
