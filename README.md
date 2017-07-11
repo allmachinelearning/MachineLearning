@@ -7,6 +7,7 @@
 
 **[深度学习最值得看的论文](http://www.dlworld.cn/YeJieDongTai/4385.html)**
 
+**[最全面的深度学习自学资源集锦](http://dataunion.org/29975.html)**
 
 **[Machine learning surveys](https://github.com/metrofun/machine-learning-surveys/)**
 
