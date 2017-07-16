@@ -5,6 +5,9 @@
 **致力于分享最新最全面的机器学习资料，欢迎你成为贡献者!**
 
 
+**[深度学习最值得看的论文](http://www.dlworld.cn/YeJieDongTai/4385.html)**
+
+**[最全面的深度学习自学资源集锦](http://dataunion.org/29975.html)**
 
 **[Machine learning surveys](https://github.com/metrofun/machine-learning-surveys/)**
 
@@ -274,7 +277,8 @@
 
 	- 机器学习实践 测试驱动的开发方法 (图灵程序设计丛书) - [美] 柯克（Matthew Kirk）.a.azw3
 
-	- 机器学习：实用案例解析 (O'Reilly精品图书系
+	- 机器学习：实用案例解析 (O'Reilly精品图书
+  
 
 - [数学](https://mega.nz/#F!2AoglbpC!UW21wwPMWhi_UIjF33sLsA):
 
@@ -316,7 +320,7 @@
 
     - Real and Complex Analysis - Walter Rudin
 
-    - Thomas' Calculus - George B. Thomas
+    - Thomas' Calculus - George B. Thoma
 
 - [Packt每日限免电子书精选](http://ddl.escience.cn/f/IS4a):
 
