@@ -277,39 +277,50 @@
 
 	- 机器学习实践 测试驱动的开发方法 (图灵程序设计丛书) - [美] 柯克（Matthew Kirk）.a.azw3
 
-	- 机器学习：实用案例解析 (O'Reilly精品图书系
+	- 机器学习：实用案例解析 (O'Reilly精品图书
+  
 
-- [数学](https://mega.nz/#F!LQJGQZgZ!DTSHGKRas-XDEOHYavpghw):
+- [数学](https://mega.nz/#F!2AoglbpC!UW21wwPMWhi_UIjF33sLsA):
 
-    - Mathematical Analysis I by Vladimir A. Zorich
+    - Algebra - Michael Artin
 
-    - Mathematical Analysis II by Vladimir A. Zorich
+    - Algebra - Serge Lang
 
-    - Thomas' Calculus by George B. Thomas
+    - Basic Topology - M.A. Armstrong
 
-    - 普林斯顿微积分读本 by Adrian Banner
-
-    - Linear Algebra and Its Applications by Gilbert Strang
-
-    - The matrix cookbook by Kaare Brandt Petersen & Michael Syskind Pedersen
-
-    - Probability: Theory and Examples by Rick Durrett
-
-    - Probabilistic Graphical Models: Principles and Techniques by Daphne Koller & Nir Friedman
+    - Convex Optimization by Stephen Boyd & Lieven Vandenberghe
 
     - Functional Analysis by Walter Rudin
 
     - Functional Analysis, Sobolev Spaces and Partial Differential Equations by Haim Brezis
 
-    - Linear and Nonlinear Functional Analysis with Applications by Philippe G. Ciarlet
+    - Graph Theory - J.A. Bondy, U.S.R. Murty
 
-    - Convex Optimization by Stephen Boyd & Lieven Vandenberghe
+    - Graph Theory - Reinhard Diestel
 
-    - Graph Theory by Reinhard Diestel
+    - Inside Interesting Integrals - Pual J. Nahin
 
-    - Graph Theory by J.A. Bondy & U.S.R. Murty
+    - Linear Algebra and Its Applications - Gilbert Strang
 
-    - Mathematics for Computer Science by Eric Lehman & F Thomson Leighton & Alber R Meyer
+    - Linear and Nonlinear Functional Analysis with Applications - Philippe G. Ciarlet
+
+    - Mathematical Analysis I - Vladimir A. Zorich
+
+    - Mathematical Analysis II - Vladimir A. Zorich
+
+    - Mathematics for Computer Science - Eric Lehman, F Thomson Leighton, Alber R Meyer
+
+    - Matrix Cookbook, The - Kaare Brandt Petersen, Michael Syskind Pedersen
+
+    - Measures, Integrals and Martingales - René L. Schilling
+
+    - Probabilistic Graphical Models_ Principles and Techniques - Daphne Koller, Nir Friedman
+
+    - Probability_ Theory and Examples - Rick Durrett
+
+    - Real and Complex Analysis - Walter Rudin
+
+    - Thomas' Calculus - George B. Thoma
 
 - [Packt每日限免电子书精选](http://ddl.escience.cn/f/IS4a):
 
