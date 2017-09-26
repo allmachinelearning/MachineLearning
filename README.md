@@ -160,6 +160,8 @@
 
 ## 相关书籍 reference book
 
+- [Hands on Machine Learning with Scikit-learn and Tensorflow](https://my.pcloud.com/publink/show?code=XZ9ev77Zk2l6xcMtfIhHm7mRKAYhISb6sl3k)
+
 - 入门读物 [The Elements of Statistical Learning(英文第二版),The Elements of Statistical Learning.pdf](http://ddl.escience.cn/ff/emZH)
 
 - [机器学习](https://book.douban.com/subject/26708119/), (@Prof. Zhihua Zhou/周志华教授)
