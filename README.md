@@ -12,6 +12,8 @@
 
 **[快速入门TensorFlow](https://github.com/aymericdamien/TensorFlow-Examples)**
 
+[自然语言处理数据集](http://abunchofdata.com/datasets-for-natural-language-processing/)
+
 - - -
 
 
