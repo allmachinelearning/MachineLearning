@@ -17,6 +17,8 @@
 
 ##  预备知识 Prerequisite
 
+- [学习知识与路线图](https://metacademy.org/)
+
 - Python
 
     - [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
@@ -25,7 +27,7 @@
 
 - Markdown
 
-    - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - Markdown is a easy-to-use writing tool on the GitHu.  
+    - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - Markdown is a easy-to-use writing tool on the GitHu.
 
 - R
 
