@@ -124,7 +124,9 @@
 ## 课程与讲座 Course and talk
 
 ### 机器学习 Machine Learning
-
+ 
+- [神经网络，机器学习，算法，人工智能等 30 门免费课程详细清单](http://www.datasciencecentral.com/profiles/blogs/neural-networks-for-machine-learning)
+  
 - [斯坦福机器学习入门课程](https://www.coursera.org/learn/machine-learning)，讲师为Andrew Ng，适合数学基础一般的人，适合入门，但是学完会发现只是懂个大概，也就相当于什么都不懂。省略了很多机器学习的细节
 
 - [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks), Coursera上的著名课程，由Geoffrey Hinton教授主讲。
