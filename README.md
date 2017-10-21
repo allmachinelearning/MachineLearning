@@ -16,7 +16,7 @@
  
 [Learning Machine Learning? Six articles you don’t want to miss](http://www.ibmbigdatahub.com/blog/learning-machine-learning-six-articles-you-don-t-want-miss)
 
-[Getting started with machine learning][Documented by GITHUB](https://github.com/collections/machine-learning)
+[Getting started with machine learning documented by github](https://github.com/collections/machine-learning)
 - - -
 
 
