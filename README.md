@@ -4,6 +4,8 @@
 
 **致力于分享最新最全面的机器学习资料，欢迎你成为贡献者!**
 
+[深度学习(花书)中文版](https://github.com/exacity/deeplearningbook-chinese)
+
 **[深度学习最值得看的论文](http://www.dlworld.cn/YeJieDongTai/4385.html)**
 
 **[最全面的深度学习自学资源集锦](http://dataunion.org/29975.html)**
