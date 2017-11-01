@@ -26,6 +26,10 @@
 
 - [学习知识与路线图](https://metacademy.org/)
 
+- [MIT线性代数课堂笔记(中文)](https://github.com/zlotus/notes-linear-algebra)
+
+- [概率与统计 The Probability and Statistics Cookbook](http://statistics.zone/)
+
 - Python
 
     - [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
@@ -55,7 +59,7 @@
         - [Scikit-learn](http://scikit-learn.org/)
         - [PyTorch](http://pytorch.org/)
         - [Keras](https://keras.io/)
-        - [MXNet](http://mxnet.io/)
+        - [MXNet](http://mxnet.io/)|[相关资源大列表](https://github.com/chinakook/Awesome-MXNet)
         - [Caffe](http://caffe.berkeleyvision.org/)
         - [Caffe2](https://caffe2.ai/)
 
