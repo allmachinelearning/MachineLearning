@@ -1,8 +1,17 @@
-# 机器学习资源 Machine learning
-
-
+# 机器学习资源 Machine learning Resources
 
 **致力于分享最新最全面的机器学习资料，欢迎你成为贡献者!**
+
+*快速开始学习：* 
+- 周志华的[《机器学习》](https://pan.baidu.com/s/1hscnaQC)作为通读教材，不用深入，大概了解机器学习来龙去脉
+- 李航的[《统计学习方法》](https://pan.baidu.com/s/1dF2b4jf)作为经典的深入案例，仔细研究几个算法的来龙去脉
+- 使用Python语言，根据[《机器学习实战》](https://pan.baidu.com/s/1gfzV7PL)快速上手写程序
+- 参照Youtube机器学习红人Siraj Raval的视频+代码可以帮助你更好地进入状态！[原Youtube地址需要梯子]((https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D))|[百度网盘](https://pan.baidu.com/s/1jICGJFg)
+- 最后，你可能想真正实战一下。那么，请到注明的机器学习竞赛平台Kaggle上做一下这些基础入门的[题目](https://www.kaggle.com/competitions?sortBy=deadline&group=all&page=1&pageSize=20&segment=gettingStarted)吧！(Kaggle上对于每个问题你都可以看到别人的代码，方便你更加快速地学习) | [Kaggle介绍及入门解读](https://zhuanlan.zhihu.com/p/25686876)
+- 另外，对于一些基础的数学知识，你看[深度学习(花书)中文版](https://github.com/exacity/deeplearningbook-chinese)就够了。这本书同时也是**深度学习**经典之书。
+
+
+- - -
 
 [深度学习(花书)中文版](https://github.com/exacity/deeplearningbook-chinese)
 
@@ -326,15 +335,12 @@
 
 ## 如何加入 How to contribute
 
-- 直接pull requests
+如果你对本项目感兴趣，非常欢迎你加入！
 
-- 或者到[这里](https://github.com/allmachinelearning/MachineLearning/issues/1)留下你的Github账号我们把你加入贡献者列表
-
+- 正常参与：请直接fork、pull都可以
 - 如果要上传文件：请**不要**直接上传到项目中，否则会造成git版本库过大。正确的方法是上传它的**超链接**。如果你要上传的文件本身就在网络中（如paper都会有链接），直接上传即可；如果是自己想分享的一些文件、数据等，鉴于国内网盘的情况，请按照如下方式上传：
-	- 首先在[UPLOAD](https://my.pcloud.com/#page=puplink&code=4e9Z0Vwpmfzvx0y2OqTTTMzkrRUz8q9V) 直接上传（**不**需要注册账号）
-	- 上传成功后，在[DOWNLOAD](https://my.pcloud.com/publink/show?code=kZWtboZbDDVguCHGV49QkmlLliNPJRMHrFX)里找到你刚上传的文件，共享链接即可。
-
-- 之后请在贡献者页面加入自己的信息
+	- (墙内)目前没有找到比较好的方式，只能通过链接，或者自己网盘的链接来做。
+	- (墙外)首先在[UPLOAD](https://my.pcloud.com/#page=puplink&code=4e9Z0Vwpmfzvx0y2OqTTTMzkrRUz8q9V)直接上传（**不**需要注册账号）；上传成功后，在[DOWNLOAD](https://my.pcloud.com/publink/show?code=kZWtboZbDDVguCHGV49QkmlLliNPJRMHrFX)里找到你刚上传的文件，共享链接即可。
 
 
 
@@ -348,7 +354,7 @@
 #### [贡献者 Contributors](https://github.com/allmachinelearning/MachineLearning/blob/master/contributors.md)
 
 
-
+> ***[文章版权声明]这个仓库是我开源到Github上的，可以遵守相关的开源协议进行使用。这个仓库中包含有很多研究者的论文、硕博士论文等，都来源于在网上的下载，仅作为学术研究使用。我对其中一些文章都写了自己的浅见，希望能很好地帮助理解。这些文章的版权属于相应的出版社。如果作者或出版社有异议，请联系我进行删除（本来应该只放文章链接的，但是由于时间关系来不及）。一切都是为了更好地学术！***
 
 
 
