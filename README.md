@@ -9,7 +9,9 @@
 - 参照Youtube机器学习红人Siraj Raval的视频+代码可以帮助你更好地进入状态！
     - [原Youtube地址需要梯子](https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D) | [百度网盘](https://pan.baidu.com/s/1jICGJFg)
 - 最后，你可能想真正实战一下。那么，请到注明的机器学习竞赛平台Kaggle上做一下这些基础入门的[题目](https://www.kaggle.com/competitions?sortBy=deadline&group=all&page=1&pageSize=20&segment=gettingStarted)吧！(Kaggle上对于每个问题你都可以看到别人的代码，方便你更加快速地学习)  [Kaggle介绍及入门解读](https://zhuanlan.zhihu.com/p/25686876) [可以用来练手的数据集](https://www.kaggle.com/annavictoria/ml-friendly-public-datasets/notebook)
-- [机器学习算法Python实现](https://github.com/lawlite19/MachineLearning_Python)
+
+- [机器学习算法Python实现](https://github.com/lawlite19/MachineLearning_Python)
+
 - 另外，对于一些基础的数学知识，你看[深度学习(花书)中文版](https://github.com/exacity/deeplearningbook-chinese)就够了。这本书同时也是**深度学习**经典之书。
 
 
@@ -145,6 +147,8 @@
 
 ### 机器学习 Machine Learning
  
+[台湾大学应用深度学习课程](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/index.html)
+
 - [神经网络，机器学习，算法，人工智能等 30 门免费课程详细清单](http://www.datasciencecentral.com/profiles/blogs/neural-networks-for-machine-learning)
   
 - [斯坦福机器学习入门课程](https://www.coursera.org/learn/machine-learning)，讲师为Andrew Ng，适合数学基础一般的人，适合入门，但是学完会发现只是懂个大概，也就相当于什么都不懂。省略了很多机器学习的细节
