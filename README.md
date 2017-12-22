@@ -13,6 +13,7 @@
 - [机器学习算法Python实现](https://github.com/lawlite19/MachineLearning_Python)
 
 - 另外，对于一些基础的数学知识，你看[深度学习(花书)中文版](https://github.com/exacity/deeplearningbook-chinese)就够了。这本书同时也是**深度学习**经典之书。
+- 来自南京大学周志华小组的博士生写的一本小而精的[解析卷积神经网络—深度学习实践手册](http://lamda.nju.edu.cn/weixs/book/CNN_book.html)
 
 
 - - -
