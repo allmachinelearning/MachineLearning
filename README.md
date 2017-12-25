@@ -8,6 +8,7 @@
 - 使用Python语言，根据[《机器学习实战》](https://pan.baidu.com/s/1gfzV7PL)快速上手写程序
 - 参照Youtube机器学习红人Siraj Raval的视频+代码可以帮助你更好地进入状态！
     - [原Youtube地址需要梯子](https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D) | [百度网盘](https://pan.baidu.com/s/1jICGJFg)
+- 来自国立台湾大学李宏毅老师的机器学习和深度学习中文课程，强烈推荐：[课程](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
 - 最后，你可能想真正实战一下。那么，请到注明的机器学习竞赛平台Kaggle上做一下这些基础入门的[题目](https://www.kaggle.com/competitions?sortBy=deadline&group=all&page=1&pageSize=20&segment=gettingStarted)吧！(Kaggle上对于每个问题你都可以看到别人的代码，方便你更加快速地学习)  [Kaggle介绍及入门解读](https://zhuanlan.zhihu.com/p/25686876) [可以用来练手的数据集](https://www.kaggle.com/annavictoria/ml-friendly-public-datasets/notebook)
 - 想看别人怎么写代码？[机器学习经典教材《PRML》所有代码实现](https://github.com/ctgk/PRML)
 - [机器学习算法Python实现](https://github.com/lawlite19/MachineLearning_Python)
