@@ -18,6 +18,9 @@
 
 
 - - -
+
+[一个简洁明了的时间序列处理(分窗、特征提取、分类)库：Seglearn](https://dmbee.github.io/seglearn/index.html)
+
 [计算机视觉这一年：这是最全的一份CV技术报告](https://zhuanlan.zhihu.com/p/31430602)
 
 [深度学习(花书)中文版](https://github.com/exacity/deeplearningbook-chinese)
