@@ -24,7 +24,7 @@
 #### 1.3. 工具
 * 第三方库
 	机器学习有很多开源库可以直接拿来用，github是个不错的获取代码的网站，比较著名的有：
-    * [libsvm](https://github.com/cjlin1/libsvm)，作者是林轩田，是svm的标准库。
+    * [libsvm](https://github.com/cjlin1/libsvm)，作者是林智仁，是svm的标准库。
     * [scikit-learn](http://scikit-learn.org)，scikit包是python中著名的处理数据的包，其中内置了几乎所有流行的机器学习算法，配合python简洁的语法操作，使用起来很方便。
     * [pandas](http://www.cnblogs.com/chaosimple/p/4153083.html)，python的一个包，其中对表的处理比较出色，我只是试用过。
     * [pylearn2](https://github.com/lisa-lab/pylearn2),这个我没有接触过，不过在github上排名很靠前，应该不错。
