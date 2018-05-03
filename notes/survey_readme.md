@@ -10,6 +10,10 @@
 - [半监督学习Semi-supervised learning literature survey_Zhu_2005.pdf](https://mega.nz/#!gKYVFTrI!sLkVspn3uVwVHWVhv3XUObmFBIVRdlhbHuqQXzuht_4)
 - [稀疏子空间聚类Sparse Subspace Clustering_Elhamifar_Vidal_2013.pdf](https://mega.nz/#!0eAC2ajD!xWZhO9Pvh7qJwpHKkyYLnqKbLye9coSX0fd6WuyiIs4)
 - [聚类算法Survey of Clustering Algorithms_Xu_WunschII_2005.pdf](https://mega.nz/#!dKJAjAqJ!BwiVi3KGDaGXIWGlIiOo9cenHcTmtRyAxNW6WgKFQgE)
+- [特征选择综述]
+--------1.A Survey on semi-supervised feature selection methods:(https://www.sciencedirect.com/science/article/pii/S0031320316303545/pdfft?md5=d1bf45954749294df583e4fa6a41cf75&pid=1-s2.0-S0031320316303545-main.pdf)
+--------2.Feature selection in machine learning A new perspective:(http://xueshu.baidu.com/s?wd=paperuri%3A%28de29f951f2d943159b8b49636ae4c6e8%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0925231218302911&ie=utf-8&sc_us=4397142208242775010)
+--------3.Feature Selection: A Data Perspective:(http://www.public.asu.edu/~jundongl/paper/CSUR17.pdf)
 - [深度学习各种综述](https://mega.nz/#F!NaxA0ADS!QIxYDA6A760jfPbFbElCYA)
 	- 最著名的综述：深度学习三巨头在2015年Nature上的[Deep learning](https://mega.nz/#!ZL4VFTiK!hcpVDDd9MtsFlBZHp-KaETk0bOAdcBaq_ioci75NrK8)
 	- 比较完整的综述：[Deep learning in neural networks - an overview](https://mega.nz/#!lLJj3Rwb!t6yO7hDDYZHYj1UDFX17gAjQkZ77mmXhQKa0aayDhJg)
