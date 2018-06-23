@@ -6,6 +6,7 @@
 - 周志华的[《机器学习》](https://pan.baidu.com/s/1hscnaQC)作为通读教材，不用深入，大概了解机器学习来龙去脉
 - 李航的[《统计学习方法》](https://pan.baidu.com/s/1dF2b4jf)作为经典的深入案例，仔细研究几个算法的来龙去脉
 - 使用Python语言，根据[《机器学习实战》](https://pan.baidu.com/s/1gfzV7PL)快速上手写程序
+- 吴恩达的最新深度学习课程资源：https://www.jiqizhixin.com/articles/2018-06-21-6
 - 参照Youtube机器学习红人Siraj Raval的视频+代码可以帮助你更好地进入状态！
     - [原Youtube地址需要梯子](https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D) | [百度网盘](https://pan.baidu.com/s/1jICGJFg)
 - 来自国立台湾大学李宏毅老师的机器学习和深度学习中文课程，强烈推荐：[课程](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
