@@ -13,6 +13,7 @@
 - 最后，你可能想真正实战一下。那么，请到注明的机器学习竞赛平台Kaggle上做一下这些基础入门的[题目](https://www.kaggle.com/competitions?sortBy=deadline&group=all&page=1&pageSize=20&segment=gettingStarted)吧！(Kaggle上对于每个问题你都可以看到别人的代码，方便你更加快速地学习)  [Kaggle介绍及入门解读](https://zhuanlan.zhihu.com/p/25686876) [可以用来练手的数据集](https://www.kaggle.com/annavictoria/ml-friendly-public-datasets/notebook)
 - 想看别人怎么写代码？[机器学习经典教材《PRML》所有代码实现](https://github.com/ctgk/PRML)
 - [机器学习算法Python实现](https://github.com/lawlite19/MachineLearning_Python)
+- [吴恩达新书：Machine Learning Yearning中文版](https://pan.baidu.com/s/10kosKx6rDguS4tPejY-fRw)
 
 - 另外，对于一些基础的数学知识，你看[深度学习(花书)中文版](https://github.com/exacity/deeplearningbook-chinese)就够了。这本书同时也是**深度学习**经典之书。
 - 来自南京大学周志华小组的博士生写的一本小而精的[解析卷积神经网络—深度学习实践手册](http://lamda.nju.edu.cn/weixs/book/CNN_book.html)
