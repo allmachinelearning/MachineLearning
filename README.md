@@ -54,7 +54,32 @@
 
 - - -
 
-##  预备知识 Prerequisite
+
+## 研究领域资源细分
+
+- ### [深度学习 Deep learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+
+- ### [强化学习 Reinforcement learning](https://github.com/aikorea/awesome-rl)
+
+- ### [迁移学习 Transfer learning](https://jindongwang.github.io/transferlearning/)
+
+- ### [分布式学习系统 Distributed learning system](https://github.com/theanalyst/awesome-distributed-systems)
+
+- ### [计算机视觉/机器视觉 Computer vision / machine vision](https://github.com/jbhuang0604/awesome-computer-vision)
+
+- ### [自然语言处理 Natural language procesing](https://github.com/Nativeatom/NaturalLanguageProcessing)
+
+- ### 语音识别 Speech recognition
+
+- ### [生物信息学 Bioinfomatics](https://github.com/danielecook/Awesome-Bioinformatics)
+
+- ### [行为识别 Activity recognition](https://github.com/jindongwang/activityrecognition)
+
+- ### [多智能体 Multi-Agent](http://ddl.escience.cn/f/ILKI)
+
+- - -
+
+##  开始学习：预备知识 Prerequisite
 
 - [学习知识与路线图](https://metacademy.org/)
 
@@ -101,38 +126,6 @@
     - Matlab
         - [Neural Network Toolbox](https://cn.mathworks.com/help/nnet/index.html)
         - [Deep Learning Toolbox](https://cn.mathworks.com/matlabcentral/fileexchange/38310-deep-learning-toolbox)
-
-- - -
-
-
-## 理论 Theory
-
-- ### 深度学习 Deep learning
-
-- ### [强化学习 Reinforcement learning](https://github.com/allmachinelearning/ReinforcementLearning)
-
-- ### [迁移学习 Transfer learning](https://jindongwang.github.io/transferlearning/)
-
-- ### [分布式学习系统 Distributed learning system](https://github.com/allmachinelearning/Deep-Learning-System-Design)
-
-- - -
-
-
-## 应用 Applications
-
-- ### 计算机视觉/机器视觉 Computer vision / machine vision
-
-- ### [自然语言处理 Natural language procesing](https://github.com/Nativeatom/NaturalLanguageProcessing)
-
-- ### 语音识别 Speech recognition
-
-- ### 生物信息学 Bioinfomatics
-
-- ### 医疗 Medical
-
-- ### [行为识别 Activity recognition](https://github.com/jindongwang/activityrecognition)
-
-- ### [人工智能(多智能体) Artificial Intelligence(Multi-Agent)](http://ddl.escience.cn/f/ILKI)
 
 - - -
 
@@ -378,8 +371,6 @@
 
 #### [贡献者 Contributors](https://github.com/allmachinelearning/MachineLearning/blob/master/contributors.md)
 
-
-> ***[文章版权声明]这个仓库是我开源到Github上的，可以遵守相关的开源协议进行使用。这个仓库中包含有很多研究者的论文、硕博士论文等，都来源于在网上的下载，仅作为学术研究使用。我对其中一些文章都写了自己的浅见，希望能很好地帮助理解。这些文章的版权属于相应的出版社。如果作者或出版社有异议，请联系我进行删除（本来应该只放文章链接的，但是由于时间关系来不及）。一切都是为了更好地学术！***
 
 
 
