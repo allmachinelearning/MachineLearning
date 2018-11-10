@@ -69,8 +69,6 @@
 
 - ### [自然语言处理 Natural language procesing](https://github.com/Nativeatom/NaturalLanguageProcessing)
 
-- ### 语音识别 Speech recognition
-
 - ### [生物信息学 Bioinfomatics](https://github.com/danielecook/Awesome-Bioinformatics)
 
 - ### [行为识别 Activity recognition](https://github.com/jindongwang/activityrecognition)
