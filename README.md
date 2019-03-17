@@ -165,7 +165,7 @@
 
 - [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks), Coursera上的著名课程，由Geoffrey Hinton教授主讲。
 
-- [Stanford CS 229](http://cs229.stanford.edu/materials.html), Andrew Ng机器学习课无阉割版，Notes比较详细
+- [Stanford CS 229](http://cs229.stanford.edu/materials.html), Andrew Ng机器学习课无阉割版，Notes比较详细，可以对照学习[CS229课程讲义的中文翻译](https://github.com/Kivy-CN/Stanford-CS-229-CN)。
 
 - [CMU 10-702 Statistical Machine Learning](http://www.stat.cmu.edu/~larry/=sml/), 讲师是Larry Wasserman，应该是统计系开的机器学习，非常数学化，第一节课就提到了RKHS(Reproducing Kernel Hilbert Space),建议数学出身的同学看或者是学过实变函数泛函分析的人看一看
 
