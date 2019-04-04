@@ -5,6 +5,8 @@
 *快速开始学习：* 
 - 周志华的[《机器学习》](https://pan.baidu.com/s/1hscnaQC)作为通读教材，不用深入，从宏观上了解机器学习
 
+- 《机器学习》西瓜书公式推导解析：https://datawhalechina.github.io/pumpkin-book/
+
 - 李航的[《统计学习方法》](https://pan.baidu.com/s/1dF2b4jf)作为经典的深入案例，仔细研究几个算法的来龙去脉 | [书中的代码实现](https://github.com/WenDesi/lihang_book_algorithm)
 
 - 使用Python语言，根据[《机器学习实战》](https://pan.baidu.com/s/1gfzV7PL)快速上手写程序
