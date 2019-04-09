@@ -7,6 +7,8 @@
 
 - 《机器学习》西瓜书公式推导解析：https://datawhalechina.github.io/pumpkin-book/
 
+- 最新的[《神经网络与深度学习》](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&mid=2247488439&idx=1&sn=df51b67ac2a42fe1a8417a7e4d308b8b&chksm=976fb62aa0183f3c8cfbfcf2c1613aa3a168f782bc5b439aa2a5db9574a33f678a081a1d24a5&mpshare=1&scene=1&srcid=0409hgaWjfxz2LzGtniTpAKh&key=12a4c5f4665589b6914fa6a60a7fe4bd6a4fc4855ac8967b945678646a60c26482467697a46b85e85c7a6a7d564aac41d6c0312307a7f95ba299d3b3cf8433f9a159f999d9484534452672dbdd9fd270&ascene=1&uin=NjMzMjQzMTYw&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=CIhr0hAvTnkZIvwFNRQ2%2BWhir8OVCkCt9tarvfIPS5SWtyyQKMLGOBt%2BItSffrll)
+
 - 李航的[《统计学习方法》](https://pan.baidu.com/s/1dF2b4jf)作为经典的深入案例，仔细研究几个算法的来龙去脉 | [书中的代码实现](https://github.com/WenDesi/lihang_book_algorithm)
 
 - 使用Python语言，根据[《机器学习实战》](https://pan.baidu.com/s/1gfzV7PL)快速上手写程序
