@@ -3,24 +3,22 @@
 **致力于分享最新最全面的机器学习资料，欢迎你成为贡献者!**
 
 *快速开始学习：* 
-- 周志华的[《机器学习》](https://pan.baidu.com/s/1hscnaQC)作为通读教材，不用深入，从宏观上了解机器学习
 
-- 《机器学习》西瓜书公式推导解析：https://datawhalechina.github.io/pumpkin-book/
+- 周志华的[《机器学习》](https://pan.baidu.com/s/1hscnaQC)作为通读教材，不用深入，从宏观上了解机器学习
+  - 《机器学习》西瓜书公式推导解析：https://datawhalechina.github.io/pumpkin-book/
 
 - 最新的[《神经网络与深度学习》](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&mid=2247488439&idx=1&sn=df51b67ac2a42fe1a8417a7e4d308b8b&chksm=976fb62aa0183f3c8cfbfcf2c1613aa3a168f782bc5b439aa2a5db9574a33f678a081a1d24a5&mpshare=1&scene=1&srcid=0409hgaWjfxz2LzGtniTpAKh&key=12a4c5f4665589b6914fa6a60a7fe4bd6a4fc4855ac8967b945678646a60c26482467697a46b85e85c7a6a7d564aac41d6c0312307a7f95ba299d3b3cf8433f9a159f999d9484534452672dbdd9fd270&ascene=1&uin=NjMzMjQzMTYw&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=CIhr0hAvTnkZIvwFNRQ2%2BWhir8OVCkCt9tarvfIPS5SWtyyQKMLGOBt%2BItSffrll)
 
 - 李航的[《统计学习方法》](https://pan.baidu.com/s/1dF2b4jf)作为经典的深入案例，仔细研究几个算法的来龙去脉 | [书中的代码实现](https://github.com/WenDesi/lihang_book_algorithm)
 
 - 使用Python语言，根据[《机器学习实战》](https://pan.baidu.com/s/1gfzV7PL)快速上手写程序
-
-- 吴恩达的最新深度学习课程资源：https://www.jiqizhixin.com/articles/2018-06-21-6
-
-- 参照Youtube机器学习红人Siraj Raval的视频+代码可以帮助你更好地进入状态！
-    - [原Youtube地址需要梯子](https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D) | [百度网盘](https://pan.baidu.com/s/1jICGJFg)
     
 - 来自国立台湾大学李宏毅老师的机器学习和深度学习中文课程，强烈推荐：[课程](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
 
-- 最后，你可能想真正实战一下。那么，请到注明的机器学习竞赛平台Kaggle上做一下这些基础入门的[题目](https://www.kaggle.com/competitions?sortBy=deadline&group=all&page=1&pageSize=20&segment=gettingStarted)吧！(Kaggle上对于每个问题你都可以看到别人的代码，方便你更加快速地学习)  [Kaggle介绍及入门解读](https://zhuanlan.zhihu.com/p/25686876) [可以用来练手的数据集](https://www.kaggle.com/annavictoria/ml-friendly-public-datasets/notebook)
+- 《迁移学习导论》助你快速入门迁移学习！ [书的主页](http://jd92.wang/tlbook)
+  - 迁移学习统一代码库：[Domain adaptation](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDA) | [Domain generalization](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG) | [更多代码](https://github.com/jindongwang/transferlearning)
+
+- 最后，你可能想真正实战一下。那么，请到著名的机器学习竞赛平台Kaggle上做一下这些基础入门的[题目](https://www.kaggle.com/competitions?sortBy=deadline&group=all&page=1&pageSize=20&segment=gettingStarted)吧！(Kaggle上对于每个问题你都可以看到别人的代码，方便你更加快速地学习)  [Kaggle介绍及入门解读](https://zhuanlan.zhihu.com/p/25686876) [可以用来练手的数据集](https://www.kaggle.com/annavictoria/ml-friendly-public-datasets/notebook)
 
 其他有用的资料：
 
@@ -65,7 +63,7 @@
 
 - ### [强化学习 Reinforcement learning](https://github.com/aikorea/awesome-rl)
 
-- ### [迁移学习 Transfer learning](https://jindongwang.github.io/transferlearning/)
+- ### [迁移学习 Transfer learning](https://github.com/jindongwang/transferlearning)
 
 - ### [分布式学习系统 Distributed learning system](https://github.com/theanalyst/awesome-distributed-systems)
 
